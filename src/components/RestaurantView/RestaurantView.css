@@ -1,0 +1,11 @@
+.RestaurantView {
+    height: 100%;
+    width: 30%;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    box-sizing: border-box;
+    background-color: lightgray;
+}
