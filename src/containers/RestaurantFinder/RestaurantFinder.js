@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import Auxiliary from '../../hocs/Auxiliary/Auxiliary';
 import RestaurantView from '../../components/RestaurantView/RestaurantView';
 import MapView from '../../components/MapView/MapView';
 import classes from './RestaurantFinder.css';

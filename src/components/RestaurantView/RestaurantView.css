@@ -7,5 +7,6 @@
     flex-direction: column;
     justify-content: space-around;
     box-sizing: border-box;
-    background-color: lightgray;
+    background-color: lightcoral;
+    text-align: center;
 }
